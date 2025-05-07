@@ -43,13 +43,11 @@
 * 原理图里面的侧面2x5的元器件是排针的，我没找到排母的封装，所以需要自行换成排母焊接，不然插不到主板上
 * 上机之前请确认主板的前面板线序和下图一致
 
-![截图 2025-05-07 23-15-33.png](https://image.lceda.cn/oshwhub/pullImage/f90edfadb2de49d8a17ea21d25eca048.png)
+![主板panel引脚定义](<img/截图 2025-05-07 23-15-33.png>)
 
 
 
 ## 实物图
 实物图已经上机了，不太方便拍摄了（你猜猜我为啥非要装个远程开机的😀），所以这里放两张效果图吧。
 
-![截图 2025-05-07 22-50-58.png](https://image.lceda.cn/oshwhub/pullImage/4c4c08a7fef643d5b5e68e3f54e074d9.png)
-
-![截图 2025-05-07 23-20-43.png](https://image.lceda.cn/oshwhub/pullImage/8210889c967b4587ab6def128c749b0e.png)
+![](<img/截图 2025-05-07 22-50-58.png>)![](<img/截图 2025-05-07 23-20-43.png>)
